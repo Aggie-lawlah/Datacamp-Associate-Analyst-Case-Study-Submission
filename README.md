@@ -6,7 +6,7 @@ Four main questions(as instructed) were answered in this analysis;
   1. Are all column properties as described in the data dictionary
   2. What is the dstribution of purchase type
   3. What is the total sales distribution
-  4. Is there a relatinship between sales and purchase type?
+  4. Is there a relatoinship between sales and purchase type?
 
 A summary of the insights generated from this dataset include;
 * All the columns were not as descibed in the dataset library. some of the columns had to be tweaked to get the final column characteristic.
